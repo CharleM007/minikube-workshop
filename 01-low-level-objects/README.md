@@ -1,0 +1,1 @@
+This is a file showing that non-yaml files will not be consumed by `kubectl apply -f`
